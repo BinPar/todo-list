@@ -1,5 +1,26 @@
-# TypeScript Next Boilerplate
+# React To-Do List
 
-TypeScript Next Boilerplate
+Lista de tareas a realizar
 
-> **Note:** All the source typescript files (like components, logic, hooks, etc.) with the sole exception of **pages** and **tests** needs to be included under the **src** folder
+Para cada taréa:
+
+- Título
+- Prioridad (alta, media y baja)
+- Realizada (booleano)
+
+Interfaz:
+
+- Alta, bajar y modificación de tareas
+- Mostrar las realizadas
+
+Orden:
+
+- La pendientes siempre en la parte superior
+- Más prioridad a menos
+
+Restricciones:
+
+- Almacenamiento Local
+- Solo CSS puro (con variables)
+- Navegadores modernos (No IE11)
+- Una sola ruta
